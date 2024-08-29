@@ -5,7 +5,11 @@
 - 💞️ Estudante de Análise e Desenvolvimento de Sistema na FATEC Taquaritinga.
 - ⚡ Desenvolvedor em formação com muita vontade de aprender e evoluir profissionalmente, buscando ser full stack.
 
-  ![Yago GitHub stats](https://github-readme-stats.vercel.app/api?username=YagoNitto&show_icons=true&theme=dracula)
+<div>
+  <a href="https://github.com/YagoNitto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YagoNitto&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoNitto&layout=compact&langs_count=16&theme=dracula" />
+</div>
 
   ## Tecnologias que eu uso no meu dia
 
